@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/Garden-React2/static/css/main.073c9b0a.css",
-    "main.js": "/Garden-React2/static/js/main.ef89f9a8.js",
+    "main.css": "/Garden-React2/static/css/main.819785d0.css",
+    "main.js": "/Garden-React2/static/js/main.a7a8378f.js",
     "static/js/787.d3befce1.chunk.js": "/Garden-React2/static/js/787.d3befce1.chunk.js",
-    "static/media/logo.svg": "/Garden-React2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/image4.jpeg": "/Garden-React2/static/media/image4.c082d97836e7f698bcda.jpeg",
+    "static/media/image2.jpg": "/Garden-React2/static/media/image2.8d8198d0ec78ab4f049c.jpg",
+    "static/media/image6.jpg": "/Garden-React2/static/media/image6.ec72490bc5558abdbc11.jpg",
+    "static/media/image3.jpeg": "/Garden-React2/static/media/image3.ac2e257dc838f3a079f8.jpeg",
+    "static/media/image1.jpeg": "/Garden-React2/static/media/image1.d64128cbd15e19c5d9a2.jpeg",
+    "static/media/image5.png": "/Garden-React2/static/media/image5.4dd558ef820e58f900ca.png",
     "index.html": "/Garden-React2/index.html",
-    "main.073c9b0a.css.map": "/Garden-React2/static/css/main.073c9b0a.css.map",
-    "main.ef89f9a8.js.map": "/Garden-React2/static/js/main.ef89f9a8.js.map",
+    "main.819785d0.css.map": "/Garden-React2/static/css/main.819785d0.css.map",
+    "main.a7a8378f.js.map": "/Garden-React2/static/js/main.a7a8378f.js.map",
     "787.d3befce1.chunk.js.map": "/Garden-React2/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ef89f9a8.js"
+    "static/css/main.819785d0.css",
+    "static/js/main.a7a8378f.js"
   ]
 }
